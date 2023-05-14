@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DragNdrops.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ClickCounter.unity
+    guid: a3ff636597d0a4f47bff354655a78b21
+  - enabled: 1
+    path: Assets/Scenes/ClickToStop.unity
+    guid: 76f3a9f2aade6fe44b57edd67a6fa4e6
+  - enabled: 1
+    path: Assets/Scenes/GuessName.unity
+    guid: 164160d35b436534799a1021c0ff3f2f
+  m_configObjects: {}
