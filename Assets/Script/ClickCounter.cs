@@ -25,6 +25,8 @@ public class ClickCounter : MonoBehaviour
 
         if(counter >= 100){
             Win();
+            counter = 100;
+            scoreCounter.text = counter.ToString();
         }
     }
 
